@@ -1,0 +1,15 @@
+class Vowels 
+{
+	public static void main(String [] args)
+	{
+		//datatype var[]={values};
+		char[] vowels = {'a','e','i','o','u'};
+		for(int i=0;i<vowels.length;i++)
+		
+		{
+			System.out.println("vowel letter:"+vowels[i]);
+		}
+		
+	}
+	
+}
